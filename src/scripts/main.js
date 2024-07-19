@@ -25,6 +25,6 @@ $(function () {
             alert('Houve um problema com a operação de busca');
         })
         .finally(function () {
-            console.log('Tentativa de busca concluída.');
+            console.log('Operação de busca concluída.');
         });
 });
